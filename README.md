@@ -84,7 +84,7 @@ _ Finance Worlds_ is built using the following technologies:
 
 ```plaintext
 FinanceWorld3D_Desktop/
-│-- assets/        # Game assets (media, visuals, animations)
+│-- assets/        # Game assets (financial data, visuals, animations)
 │-- src/           # Main game source code
 │-- docs/          # Documentation files
 │-- tests/         # Unit and integration tests
