@@ -24,7 +24,7 @@ _Finance World_ is a dynamic realm within Magic Worlds where players can simulat
 3. **Head straight up to the bridge** and enter by pressing `E`.
 4. **Once in the bridge, climb up the platform** to access the travel console.
 5. **Access the console** by entering the passcode [456]`.
-6. **Select Media World** in the World Hub.
+6. **Select Finance World** in the World Hub.
 7. **Start Exploring**: Dive into financial markets and investment opportunities.
 
 ## **🎮Gameplay & Features**<a name="features"></a>
